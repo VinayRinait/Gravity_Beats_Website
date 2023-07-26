@@ -1,0 +1,4 @@
+node_modules
+MESSAGEBIRD_API_KEY
+node_modules/
+.env

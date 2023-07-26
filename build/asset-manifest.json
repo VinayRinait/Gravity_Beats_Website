@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ff4c67f.css",
+    "main.js": "/static/js/main.e4d8da8d.js",
+    "static/media/carrot.jpg": "/static/media/carrot.a9d0a31abb15d973aef3.jpg",
+    "static/media/image3.png": "/static/media/image3.d3a1017dc9a786f8982d.png",
+    "static/media/image2.png": "/static/media/image2.5c5674d50c192a444642.png",
+    "static/media/image1.png": "/static/media/image1.e835f0aa03eafa5a862a.png",
+    "static/media/image7.png": "/static/media/image7.3339d618697a5e140a05.png",
+    "static/media/Capture1.PNG": "/static/media/Capture1.9962a414f033edb125a3.PNG",
+    "static/media/image6.png": "/static/media/image6.332dc07893164c595a62.png",
+    "static/media/delivery-boy.png": "/static/media/delivery-boy.90b5a7cfbf3a4894a58a.png",
+    "static/media/image4.png": "/static/media/image4.29b0cc2e5bf18246d615.png",
+    "static/media/vegetables.png": "/static/media/vegetables.f517e8136e179940ee90.png",
+    "static/media/ravity.png": "/static/media/ravity.aff70260444908feca65.png",
+    "static/media/insight.png": "/static/media/insight.574ea0aee3bf9c1049de.png",
+    "static/media/terms.png": "/static/media/terms.466d64a7af5030e4d8f4.png",
+    "static/media/reviews.png": "/static/media/reviews.4f0c9b33a2f5e21c6979.png",
+    "static/media/product.png": "/static/media/product.cc9df7961c53527ea58b.png",
+    "static/media/setting.png": "/static/media/setting.dd192a4318eb6624ac6e.png",
+    "static/media/order.png": "/static/media/order.b65510d41eca0a2f0adf.png",
+    "index.html": "/index.html",
+    "main.5ff4c67f.css.map": "/static/css/main.5ff4c67f.css.map",
+    "main.e4d8da8d.js.map": "/static/js/main.e4d8da8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ff4c67f.css",
+    "static/js/main.e4d8da8d.js"
+  ]
+}
